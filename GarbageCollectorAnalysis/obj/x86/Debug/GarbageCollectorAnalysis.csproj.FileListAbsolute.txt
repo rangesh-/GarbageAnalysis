@@ -1,0 +1,4 @@
+C:\Users\rangesh\Documents\Visual Studio 2010\Projects\Experiments\GarbageCollectorAnalysis\GarbageCollectorAnalysis\bin\Debug\GarbageCollectorAnalysis.exe
+C:\Users\rangesh\Documents\Visual Studio 2010\Projects\Experiments\GarbageCollectorAnalysis\GarbageCollectorAnalysis\bin\Debug\GarbageCollectorAnalysis.pdb
+C:\Users\rangesh\Documents\Visual Studio 2010\Projects\Experiments\GarbageCollectorAnalysis\GarbageCollectorAnalysis\obj\x86\Debug\GarbageCollectorAnalysis.exe
+C:\Users\rangesh\Documents\Visual Studio 2010\Projects\Experiments\GarbageCollectorAnalysis\GarbageCollectorAnalysis\obj\x86\Debug\GarbageCollectorAnalysis.pdb
